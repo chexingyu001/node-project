@@ -1,2 +1,2 @@
 console.log('ok!!!!')
-document.write(nifa)
+document.write(ndadadifa)
